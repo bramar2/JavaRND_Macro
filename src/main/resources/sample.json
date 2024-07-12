@@ -1,0 +1,16 @@
+{
+  "macros": [
+    {
+      "hold": ["shift"],
+      "switches": [{
+        "number": 1,
+        "keys": [{
+          "key": "up",
+          "count": 3
+        }]
+      }]
+    }
+  ],
+  "delay": 2,
+  "numpad_only": false
+}

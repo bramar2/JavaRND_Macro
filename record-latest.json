@@ -1,0 +1,123 @@
+{
+  "keys": [
+    {
+      "count": 1,
+      "key": "A"
+    },
+    {
+      "delay": 247,
+      "count": 1,
+      "key": "B"
+    },
+    {
+      "delay": 332,
+      "count": 1,
+      "key": "C"
+    },
+    {
+      "delay": 359,
+      "count": 1,
+      "key": "D"
+    },
+    {
+      "delay": 300,
+      "count": 1,
+      "key": "E"
+    },
+    {
+      "delay": 294,
+      "count": 1,
+      "key": "F"
+    },
+    {
+      "delay": 2321,
+      "count": 1,
+      "key": "G"
+    },
+    {
+      "delay": 58,
+      "count": 1,
+      "key": "H"
+    },
+    {
+      "delay": 449,
+      "count": 1,
+      "key": "J"
+    },
+    {
+      "delay": 545,
+      "count": 1,
+      "key": "I"
+    },
+    {
+      "delay": 199,
+      "count": 1,
+      "key": "K"
+    },
+    {
+      "delay": 1835,
+      "count": 1,
+      "key": "SPACE"
+    },
+    {
+      "delay": 1080,
+      "count": 1,
+      "key": "1"
+    },
+    {
+      "delay": 414,
+      "count": 1,
+      "key": "2"
+    },
+    {
+      "delay": 248,
+      "count": 1,
+      "key": "3"
+    },
+    {
+      "delay": 333,
+      "count": 1,
+      "key": "4"
+    },
+    {
+      "delay": 333,
+      "count": 1,
+      "key": "SPACE"
+    },
+    {
+      "delay": 652,
+      "count": 1,
+      "key": "CAPS_LOCK"
+    },
+    {
+      "delay": 1784,
+      "count": 1,
+      "key": "R"
+    },
+    {
+      "delay": 178,
+      "count": 1,
+      "key": "O"
+    },
+    {
+      "delay": 380,
+      "count": 1,
+      "key": "B"
+    },
+    {
+      "delay": 154,
+      "count": 1,
+      "key": "O"
+    },
+    {
+      "delay": 166,
+      "count": 1,
+      "key": "T"
+    },
+    {
+      "delay": 265,
+      "count": 1,
+      "key": "CAPS_LOCK"
+    }
+  ]
+}

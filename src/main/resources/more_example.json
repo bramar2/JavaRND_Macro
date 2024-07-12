@@ -1,0 +1,142 @@
+{
+  "macros": [
+    {
+      "hold": ["shift"],
+      "switches": [{
+        "number": 1,
+		"second_num": true,
+        "keys": [{
+			"numkey": 1,
+			"keys": [{
+				"key": "M",
+				"count": 1
+			},
+			{
+				"key": "A",
+				"count": 1
+			},
+			{
+				"key": "S",
+				"count": 2
+			},
+			{
+				"key": "E",
+				"count": 1
+			},
+			{
+				"key": "S",
+				"count": 4
+			}]
+		}, {
+			"numkey": 2,
+			"keys": [{
+			  		"count": 1,
+					"key": "A"
+				},
+				{
+					"count": 1,
+					"key": "B"
+				},
+				{
+					"count": 1,
+					"key": "C"
+				},
+				{
+					"count": 1,
+					"key": "D"
+				},
+				{
+					"count": 1,
+					"key": "E"
+				},
+				{
+					"count": 1,
+					"key": "F"
+				},
+				{
+					"count": 1,
+					"key": "G"
+				},
+				{
+					"count": 1,
+					"key": "H"
+				},
+				{
+					"count": 1,
+					"key": "I"
+				},
+				{
+					"count": 1,
+					"key": "J"
+				},
+				{
+					"count": 1,
+					"key": "K"
+				},
+				{
+					"count": 1,
+					"key": "L"
+				},
+				{
+					"count": 1,
+					"key": "M"
+				},
+				{
+					"count": 1,
+					"key": "N"
+				},
+				{
+					"count": 1,
+					"key": "O"
+				},
+				{
+					"count": 1,
+					"key": "P"
+				},
+				{
+					"count": 1,
+					"key": "Q"
+				},
+				{
+					"count": 1,
+					"key": "R"
+				},
+				{
+					"count": 1,
+					"key": "S"
+				},
+				{
+					"count": 1,
+					"key": "T"
+				},
+				{
+					"count": 1,
+					"key": "U"
+				},
+				{
+					"count": 1,
+					"key": "V"
+				},
+				{
+					"count": 1,
+					"key": "W"
+				},
+				{
+					"count": 1,
+					"key": "X"
+				},
+				{
+					"count": 1,
+					"key": "Y"
+				},
+				{
+					"count": 1,
+					"key": "Z"
+				}]
+		}]
+      }]
+    }
+  ],
+  "delay": 0,
+  "numpad_only": true
+}

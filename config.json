@@ -1,0 +1,72 @@
+{
+    "macros": [
+        {
+            "hold": ["shift"],
+            "switches": [{
+                "number": 7,
+                "second_num": true,
+                "keys": [{
+                    "comment": "Test",
+                    "numkey": 1,
+                    "keys": [
+                        {
+                            "key": "B",
+                            "count": 10,
+                            "delay": 3000
+                        },
+                        {
+                            "key": "enter",
+                            "count": 1
+                        },
+                        {
+                            "key": "up",
+                            "count": 2
+                        },
+                        {
+                            "key": "enter",
+                            "count": 1
+                        },
+                        {
+                            "key": "down",
+                            "count": 4
+                        },
+                        {
+                            "key": "enter",
+                            "count": 1
+                        }]
+                },{
+                    "comment": "BST",
+                    "numkey": 2,
+                    "keys": [
+                        {
+                            "count": 1,
+                            "key": "M"
+                        },
+                        {
+                            "count": 1,
+                            "key": "ENTER"
+                        },
+                        {
+                            "count": 3,
+                            "key": "UP"
+                        },
+                        {
+                            "count": 1,
+                            "key": "ENTER"
+                        },
+                        {
+                            "count": 2,
+                            "key": "DOWN"
+                        },
+                        {
+                            "count": 1,
+                            "key": "ENTER"
+                        }
+                    ]
+                }]
+            }]
+        }
+    ],
+    "delay": 0,
+    "numpad_only": true
+}
